@@ -12,6 +12,6 @@
 <hr/>
 <div align="center">
     <b>Repositório do projeto:</b><br>
-    <a href=https://github.com/douglasvlm/Spring-Cloud-Docker-Redis-ElasticSearch"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+    <a href="https://github.com/douglasvlm/Spring-Cloud-Docker-Redis-ElasticSearch"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
     <hr/>
 </div>
